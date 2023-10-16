@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Data-Website-React-X-Tailwind%20/static/css/main.334bdeb1.css",
+    "main.js": "/Data-Website-React-X-Tailwind%20/static/js/main.fdf3a466.js",
+    "index.html": "/Data-Website-React-X-Tailwind%20/index.html",
+    "static/media/Search.svg": "/Data-Website-React-X-Tailwind%20/static/media/Search.981b582ea232c3cb047eca919deaf9e8.svg",
+    "main.334bdeb1.css.map": "/Data-Website-React-X-Tailwind%20/static/css/main.334bdeb1.css.map",
+    "main.fdf3a466.js.map": "/Data-Website-React-X-Tailwind%20/static/js/main.fdf3a466.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.334bdeb1.css",
+    "static/js/main.fdf3a466.js"
+  ]
+}
